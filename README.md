@@ -14,4 +14,4 @@ The program creates two folders – one main folder (MD_All) and one additional 
 pip install markitdown pdf2markdown4llm ocrmypdf
 ```
 4. Now you can run the code
-### Good luck on your programming journey! I know - you can do whatever you want, just don't stop.
+### Good luck on your programming journey! I know - you can do whatever you wish!
